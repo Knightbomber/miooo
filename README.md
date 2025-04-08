@@ -1,2 +1,0 @@
-# miooo
-nose
